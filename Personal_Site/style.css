@@ -12,6 +12,7 @@ body {
 /* Header for ALL pages including navigation links*/
 
 .header {
+    box-sizing: content-box;
     width: 100vw;
     height: 4vw;
     padding: .5vw 1vw 1vw;
@@ -58,10 +59,12 @@ nav ul li a {
 .text-box p {
     font-size: 2vw;
     font-weight: bold;
-    color: #918d91;
+    color: #918d91 !important;
+    color: aquamarine;
 }
 
 .text-box {
+    box-sizing: border-box;
     display: flex;
     position: absolute;
     text-align: center;
@@ -283,7 +286,7 @@ nav ul li a {
 }
 
 .user-box img {
-    width: 21.2vw;
+        width: 21.2vw;  
 }
 
 
@@ -383,7 +386,7 @@ nav ul li a {
 /* Footer for About page including GitHub link */
 
 .footer-container2 {
-    width: 100vw;
+    width: 100em;
     height: 3.5vw;
     padding: .4vw 1vw .8vw;
     background-color: #9277a3;
