@@ -276,6 +276,100 @@ nav ul li a {
 }
 
 
+/* Text for Contact page */
+
+.text-box4 h3 {
+    font-size: 8vw;
+    margin-bottom: .7vw;
+    color: #bfbabf;
+    display: flex;
+    max-width: 57vw;
+    margin-left: 21.5vw;
+    display: flex;
+    position: absolute;
+}
+
+.text-box4 p1 {
+    font-size: 4vw;
+    display: flex;
+    position: absolute;
+    text-align: left;
+    color: #918d91;
+    font-weight: bold;
+    margin-left: 25vw;
+    margin-top: 20vw;
+}
+
+.text-box4 p2 {
+    font-size: 4vw;
+    display: flex;
+    position: absolute;
+    text-align: left;
+    color: #918d91;
+    font-weight: bold;
+    margin-left: 25vw;
+    margin-top: 30vw;
+}
+
+.text-box4 p3 {
+    font-size: 4vw;
+    display: flex;
+    position: absolute;
+    text-align: left;
+    color: #918d91;
+    font-weight: bold;
+    margin-left: 25vw;
+    margin-top: 40vw;
+}
+
+.text-box4 div1 input{
+
+    display: flex;
+    position: absolute;
+    resize: 1;
+    margin-left: 30vw;
+    margin-top: 26vw;
+    width: 40vw;
+}
+
+.text-box4 div2 {
+
+    font-size: 1.75vw;
+    color: #bfbabf;
+    display: flex;
+    position: absolute;
+    max-width: 15vw;
+    margin-left: 30vw;
+    margin-top: 36vw;
+}
+
+.text-box4 div3 {
+
+    font-size: 1.75vw;
+    color: #bfbabf;
+    display: flex;
+    position: absolute;
+    max-width: 15vw;
+    margin-left: 30vw;
+    margin-top: 46vw;
+}
+
+.text-box4 div4 {
+
+    font-size: 1.75vw;
+    color: #bfbabf;
+    display: flex;
+    position: absolute;
+    margin-left: 48vw;
+    margin-top: 60vw;
+}
+
+.text-box4 {
+    text-align: center;
+    max-width: 100vw;
+}
+
+
 /* Home page picture */
 
 .user-box {
